@@ -1,6 +1,0 @@
-Sitemap: https://pulte.nd.edu/sitemap.xml
-User-agent: *
-Disallow: /news/category/
-Disallow: /example
-Disallow: /admin/
-Disallow: /search/
