@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.amurt.net/wp-sitemap.xml
+
+Sitemap: https://www.amurt.net/sitemap.xml
